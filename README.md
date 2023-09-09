@@ -1,4 +1,4 @@
-## atm_generator
+## ATM Card Generator
 
 This is sample only.
 No backend, just frontend.

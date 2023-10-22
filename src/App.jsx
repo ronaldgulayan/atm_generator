@@ -39,7 +39,7 @@ function App() {
   };
 
   return (
-    <div className='w-full gap-y-10 perspective-10 h-screen gap-x-5 bg-[#E1DACF] flex items-center justify-center flex-col lg:flex-row'>
+    <div className='w-full gap-y-10 perspective-10 h-screen gap-x-5 bg-[#E1DACF] flex items-center justify-center flex-col-reverse lg:flex-row'>
       <div className='w-[90%] sm:w-96 flex flex-col gap-y-4'>
         <div className='flex gap-x-1'>
           <NameField
